@@ -1,0 +1,17 @@
+[
+    {
+        "id": "Rifa1",
+        "titulo": "Rifa Premiun",
+        "precio": 50000
+    },
+    {
+        "id": "Rifa2",
+        "titulo": "Rifa de Oro",
+        "precio": 30000
+    },
+    {
+        "id": "Rifa3",
+        "titulo": "Rifa de Plata",
+        "precio": 15000
+    }
+]
